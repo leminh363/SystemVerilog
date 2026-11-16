@@ -7,7 +7,11 @@ This repository contains my personal projects, experiments, and exercises as I d
 I'm continuously learning and adding new projects as I work toward a career in the semiconductor industry.
 
 ## Resources / Tools used 
-HDL: Verilog / SystemVerilog        
+HDL: Verilog / SystemVerilog 
+
 Simulator: Icarus Verilog
+
 Waveform Viewer: GTKWave
+
 Code Editor: Visual Studio Code
+
