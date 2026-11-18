@@ -1,8 +1,8 @@
 ## Implementation and verification of basic sequential circuits using SystemVerilog
 
 Implemented:
-    D Flip-Flop
-    D Flip-Flop with Enable
+    D Flip-Flop  
+    D Flip-Flop with Enable  
     Synchronous Reset
     Asynchronous Reset
     4-bit Shift Register
